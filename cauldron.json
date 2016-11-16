@@ -1,0 +1,12 @@
+{
+  "author": "",
+  "id": "Time-Conversions-Pandas",
+  "name": "Time-Conversions-Pandas",
+  "naming_scheme": "S{{##}}-{{name}}.{{ext}}",
+  "steps": [
+    "S01-Create-Data-Frame.py",
+    "S02-Calculate-Elapsed.py"
+  ],
+  "summary": "",
+  "title": "Time-Conversions-Pandas"
+}
